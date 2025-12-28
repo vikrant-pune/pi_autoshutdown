@@ -219,8 +219,4 @@ This project demonstrates that:
 
 **Graceful failure beats clever recovery.**
 
----
 
-## License
-
-MIT (or your choice)
